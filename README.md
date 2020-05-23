@@ -1,4 +1,4 @@
-# vue_project
+# api-platform-client
 
 ## Project setup
 ```
